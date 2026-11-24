@@ -1,0 +1,44 @@
+# ROMS
+*.gb
+*.gbc
+*.sgb
+*.pocket
+
+# Obj
+*.o
+*.obj
+*.d
+
+# Debug & Map
+*.sym
+*.map
+
+# Graphics
+# *.2bpp
+# *.1bpp
+# *.pal
+# *.tilemap
+# *.attrmap
+
+# Saves
+*.sav
+*.rtc
+*.srm
+*.state*
+*.ss*
+*.sn*
+
+# Dirs
+builds/
+bin/
+out/
+
+# Tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+
